@@ -1,0 +1,9 @@
+body {
+    display: block;
+}
+
+
+.color_pickers {
+    display: inline-block;
+    margin: 5px;
+}
